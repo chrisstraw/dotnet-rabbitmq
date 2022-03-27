@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>6ee72200-c2ac-474f-80c4-00caeff60a08</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="OLT.AspNetCore.Serilog" Version="6.0.1" />
+    <PackageReference Include="OLT.Extensions.DependencyInjection" Version="6.0.1" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.2.4" />
+    <!--<PackageReference Include="RabbitMQ.Client.Core.DependencyInjection" Version="5.0.0" />-->
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+</Project>
