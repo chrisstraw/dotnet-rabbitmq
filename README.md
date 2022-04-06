@@ -9,8 +9,14 @@ https://github.com/JarekJaniszewski/RabbitMqDemo
 
 https://dotnetdocs.ir/Post/43/implementing-rabbitmq-in-net-core
 
-https://masstransit-project.com/
-
 https://docs.servicestack.net/why-servicestack
 
 https://github.com/event-driven-dotnet/EventDriven.EventBus.Dapr
+
+https://medium.com/trendyol-tech/rabbitmq-exchange-types-d7e1f51ec825
+
+https://medium.com/aspnetrun/microservices-event-driven-architecture-with-rabbitmq-and-docker-container-on-net-968d73052cbb
+
+## MassTransit
+
+https://masstransit-project.com/
